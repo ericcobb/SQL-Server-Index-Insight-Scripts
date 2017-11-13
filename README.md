@@ -1,4 +1,6 @@
-# FK Index Generator
+# Index Insight Scripts
+A collection of scripts to use with indexes in SQL Server
+## FK Index Generator
 A basic script that generates nonclustered indexes to support existing Foreign Key constraints in a SQL Server database.
 
 This query works as follows:
