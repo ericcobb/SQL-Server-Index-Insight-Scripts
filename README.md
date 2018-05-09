@@ -1,5 +1,7 @@
 # Index Insight Scripts
 A collection of scripts to use with indexes in SQL Server
+## Find Filtered Indexes
+A simple query that will provide a list of filtered indexes, with the schema and table, as well as the actual filter used in the index.  It is database specific, so it will need to be run against every database you want to view filtered indexes on.
 ## FK Index Generator
 A basic script that generates nonclustered indexes to support existing Foreign Key constraints in a SQL Server database.
 
