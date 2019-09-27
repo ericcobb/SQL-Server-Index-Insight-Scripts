@@ -1,5 +1,5 @@
 /**************************************************************************
-	FK Index Generator
+	Find Filtered Indexes
 	Author: Eric Cobb - http://www.sqlnuggets.com/
 	Source: https://github.com/ericcobb/SQL-Server-Index-Insight-Scripts
 	Supported Versions: SQL Server 2008, SQL Server 2012, SQL Server 2014, SQL Server 2016, SQL Server 2017
@@ -23,7 +23,7 @@
 			OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 			SOFTWARE.
 ***************************************************************************/
-USE YourDB
+USE YourDB --change this
 GO
 
 SELECT [SchemaName] = s.[Name]
