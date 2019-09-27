@@ -1,6 +1,6 @@
 /**************************************************************************
-	Find Missing Index Requests (http://www.sqlnuggets.com/blog/sql-scripts-how-to-find-missing-indexes/)
-	Author: Eric Cobb - http://www.sqlnuggets.com/
+	Find Missing Index Requests
+	Author: Eric Cobb - http://www.sqlnuggets.com/blog/sql-scripts-how-to-find-missing-indexes/
 	Source: https://github.com/ericcobb/SQL-Server-Index-Insight-Scripts
 	Supported Versions: SQL Server 2008, SQL Server 2012, SQL Server 2014, SQL Server 2016, SQL Server 2017
 	License:
