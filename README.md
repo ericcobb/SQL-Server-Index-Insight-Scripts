@@ -1,5 +1,9 @@
 # Index Insight Scripts
 A collection of scripts to use with indexes in SQL Server
+## Find Index Fragmentation
+As records are inserted, updated, and deleted, your tables and indexes become fragmented.  This query will provide a list of indexes, fragmentation percentage, and record counts for each table in a database.
+
+For more details, see: http://www.sqlnuggets.com/blog/sql-scripts-find-index-fragmentation/
 ## Find Filtered Indexes
 A simple query that will provide a list of filtered indexes, with the schema and table, as well as the actual filter used in the index.  It is database specific, so it will need to be run against every database you want to view filtered indexes on.
 
